@@ -6,7 +6,31 @@
         <description>Recent content in Posts on trexCode</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://trexcode.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 Apr 2022 16:11:46 -0500</lastBuildDate><atom:link href="http://trexcode.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Code</title>
+        <link>http://trexcode.github.io/p/code/</link>
+        <pubDate>Wed, 27 Apr 2022 16:11:46 -0500</pubDate>
+        
+        <guid>http://trexcode.github.io/p/code/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>This is for you</title>
+        <link>http://trexcode.github.io/p/this-is-for-you/</link>
+        <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://trexcode.github.io/p/this-is-for-you/</guid>
+        <description>&lt;img src="http://trexcode.github.io/p/this-is-for-you/typewriter-g41bc353bb_1920.jpg" alt="Featured image of post This is for you" /&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Hello everyone, my name is Daniel Lopez, hereafter trexCode. I have decided to start this small space that I had in mind for too long but for one thing and another I always kept it aside.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;In the workplace I have been developing in Java for more than 5 years, I started with a bit of mobile development for more than a year, from then on everything has been web. During all this time I have learned many things that I would like to share with you, hoping that they may be useful to you at some point. I will try to stay active through this medium regardless of the impact it has, since in addition to being able to serve you, it helps me a lot to not forget those concepts that fail us so much.
+Te deseo lo mejor en todo lo que emprendas y espero poder colaborar en tu formación.&lt;/p&gt;
+&lt;p&gt;Regards, trexCode.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Markdown Syntax Guide</title>
         <link>http://trexcode.github.io/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
